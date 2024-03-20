@@ -7,7 +7,7 @@
 <h4 align="center">:computer: Technologies used in the project:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css" />
+    <img src="https://skillicons.dev/icons?i=html,css,figma" />
   </a>
 </p>
 
